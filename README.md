@@ -1,7 +1,7 @@
 [![RimWorld Alpha 16](https://img.shields.io/badge/RimWorld-Alpha 16-brightgreen.svg)](http://rimworldgame.com/)
 
 # Forestfey's Animals ADS Patch
-Compatibility patch to enable '**[Forestfey's Animals](https://github.com/Qwynn/ForestfeyAnimals/releases)**' surgeries for RimStarve animals.
+Compatibility patch to enable '**[Forestfey's Animals](https://github.com/Qwynn/ForestfeyAnimals/releases)**' surgeries for Forestgey's animals.
 
 ## Installation
 Drop the latest release into your `RimWorld/Mods` folder.
