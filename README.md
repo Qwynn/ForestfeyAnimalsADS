@@ -3,7 +3,7 @@
 [![RimWorld Alpha 16](https://img.shields.io/badge/RimWorld-Alpha 16-brightgreen.svg)](http://rimworldgame.com/)
 
 # Forestfey's Animals for A Dog Said
-A compatibility patch which extends A Dog Said surgeries to Forestfey's animals.
+A compatibility patch which extends A Dog Said functionality to Forestfey's animals.
 
 
 ## Installation
